@@ -20,4 +20,4 @@ Add payment gateway integration.
 Develop a complete admin panel for product and order management.
 Credits
 
-@ This project is developed by [Your Name] as a part of learning and improving front-end development skills.
+@ This project is developed by Anish Andhyal as a part of learning and improving front-end development skills.
